@@ -1,2 +1,3 @@
 # myprojectandroid
-These are my home word
+Hello my friends
+
